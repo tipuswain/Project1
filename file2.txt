@@ -1,2 +1,2 @@
 Hay!! This is file2.txt file. Please checkout me.
-My 2nd commit.
+My commit.
